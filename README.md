@@ -1,2 +1,2 @@
 # the-office-wordcloud
-Wordclouds using Schrutepy librarie.
+Wordclouds using Schrutepy library.
